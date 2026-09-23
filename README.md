@@ -18,7 +18,7 @@ A full-stack web application designed to manage e-waste pickup requests, coordin
 
 **1. Clone the repository**
 \`\`\`bash
-git clone https://github.com/LaliteshKannuri/ewaste-platform.git
+git clone https://github.com/sujith-2424/ewaste-platform.git
 cd ewaste-platform
 \`\`\`
 
